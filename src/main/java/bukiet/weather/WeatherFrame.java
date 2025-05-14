@@ -5,7 +5,7 @@ import java.awt.*;
 
 public class WeatherFrame extends JFrame {
 
-    public WeatherFrame (){
+    public WeatherFrame() {
         setTitle("Weather Report");
         setSize(300, 300);
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
